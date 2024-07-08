@@ -3,9 +3,9 @@
 ## I'm a Idealist, Student and Developer!
 I love long walks on the beach, hikes in the mountains, hanging out with friends, fitness in generall and enjoy nature. Besides this, I like to find and develop technology solutions for social good. I feel like my laptop is my canvas and my keyboard my brush. I see every day as a chance, trying to draw the world a little byte better with my tools. Whenever I find the time I work on carpentry and 3d print projects.
 
-- 💻 I’m currently working on [Machbarschaft] a project trying to connect people in a analog and digital way - making it the easiest for both worlds to get access !
+- 💻 I’m currently working on [Spezi Framework](https://github.com/StanfordSpezi) an open-source framework for the rapid development of modern, interoperable digital health applications based on an ecosystem of modules that exchange data using health data standards such as HL7® FHIR®.
+- 🌴 Previous projects: [Machbarschaft] a project trying to connect people in a analog and digital way - making it the easiest for both worlds to get access !
 - 📖 I'm currently learning how to use technology in a innovative way particularly for social good
-- 🌴 2020 Goals: Contribute more to Open Source projects
 - 🐬 Fun fact: the **182** in Basler was inspired by Blink182 which is one of the bands which accompany through my childhood
 
 ### Mirror to my Soul 🎧
